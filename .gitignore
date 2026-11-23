@@ -9,6 +9,10 @@ build/
 *.elf
 *.map
 
+# Firmware de TinyGS descargado por scripts/tinygs.py
+scripts/firmware/
+__pycache__/
+
 # Archivos temporales de diseño 3D / CAD (para la futura carpeta hardware)
 *.bak
 *.skb
